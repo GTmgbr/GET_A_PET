@@ -14,7 +14,11 @@ Sistema web completo para adoção de pets que permite cadastro de usuários, au
 ![REST API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ## Frontend
-React, React Router DOM, Axios, Context API, CSS Modules
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Router](https://img.shields.io/badge/React_Router_DOM-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white)
 
 # Funcionalidades
 
